@@ -1,0 +1,17 @@
+﻿Getting Started Assignment
+
+
+Q1 Why do we start learning a programming language with “Hello World! ? 
+Ans Its just an example for checking that the pc or programs runs properly or not. Students  with little or no experience can execute “hello World” easily and correctly. This boosts the  confidence of student. 
+Q2 How is the use of comments and how do you write comments in HTML? 
+Ans Comment – It is just like to add notes to your HTML code. Comments are not being  visible to the user when the page is rendered in a web browser. By using comment, we  commenting out parts of code that we want not to display for some time. This is very  helpful for searching things in HTML code where is it. example- <!--This is the comment --> 
+Q3 What are elements, tags, and attributes and the difference between them. 
+Ans Elements- Content which we write/put in between of opening tag and closing tag is  called element like we write headings, paragraphs, etc. Each elements represents by  corresponding elements. Example = <h1> This is the element of html code</h1> 
+ Tags- Tags are used to define the layout and structure of a webpage and it is used to  create elements in a web page like <h1> tag used for creating heading element, <p> tag is  used to create a paragraph element, etc. Tags are always in pair of opening tag and closing tag. Example= <H2>This is tag<H1> 
+ Attributes- Attributes are used to provide additional information about an element. Attributes are added in the opening tag of an elements. Example- <img src=”harsh.jpg”/>  - src is used to specify the source of an image 
+- href is used to specify the destination of a link 
+DIFFERENCE– HTML tag are used to hold the element, HTML element holds the content,  HTML attribute are used to describe the characteristic of an HTML element in detail. 
+Q4 Briefly explain what HTML Entities are. 
+Ans (Some characters are reserved in HTML).HTML Entity has a way to print all the reserved  keyword of html and web browser. All the reserved keyword can be printed with the help of  HTML entity. 
+ →If we want to use greater than(>) or less than(<) signs in our text the browser mix  them with tags. To display these tags we use &lt or &#60 for less than instead of(<) same for  greater than. 
+ →A character entity looks like- &entity_name or &#entity_number
